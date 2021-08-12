@@ -51,7 +51,7 @@ checkVM:
 	jne getKernel32
 	mov edi, 1
 ```
-**Result: **<br>
+**Result:**<br>
 ![image](https://user-images.githubusercontent.com/58476264/129141051-a01fed87-308e-4403-beb3-520f60dea030.png)
 
 ![image](https://user-images.githubusercontent.com/58476264/129141067-c7520bf5-8e24-43ac-a6d5-d4fe036b2a0a.png)
