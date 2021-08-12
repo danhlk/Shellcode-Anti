@@ -52,9 +52,9 @@ checkVM:
 	mov edi, 1
 ```
 **Result:**<br>
-![image](https://user-images.githubusercontent.com/58476264/129141051-a01fed87-308e-4403-beb3-520f60dea030.png)
+![image](https://user-images.githubusercontent.com/58476264/129143677-828d555f-f546-4073-9a4c-746ccbdd2530.png)
 
-![image](https://user-images.githubusercontent.com/58476264/129141067-c7520bf5-8e24-43ac-a6d5-d4fe036b2a0a.png)
+![image](https://user-images.githubusercontent.com/58476264/129143654-7b5ee66c-c175-4b5e-a79c-54af31b417e9.png)
 
 Entrie code is saved in 2 file [isdebug_cpuid.asm](https://github.com/danhlk/Shellcode-Anti/blob/main/isdebug_cpuid.asm) and [ntglobal_brand.asm](https://github.com/danhlk/Shellcode-Anti/blob/main/ntglobal_brand.asm)<br>
 Compile and extract shellcode with ```gcc, objcopy, od```<br>
