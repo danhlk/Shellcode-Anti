@@ -56,6 +56,6 @@ checkVM:
 
 ![image](https://user-images.githubusercontent.com/58476264/129141067-c7520bf5-8e24-43ac-a6d5-d4fe036b2a0a.png)
 
-Entrie code is saved in 2 file [isdebug_cpuid.asm]() and [ntglobal_brand.asm]()<br>
+Entrie code is saved in 2 file [isdebug_cpuid.asm](https://github.com/danhlk/Shellcode-Anti/blob/main/isdebug_cpuid.asm) and [ntglobal_brand.asm](https://github.com/danhlk/Shellcode-Anti/blob/main/ntglobal_brand.asm)<br>
 Compile and extract shellcode with ```gcc, objcopy, od```<br>
 ![image](https://user-images.githubusercontent.com/58476264/129141790-4412315b-e4ef-4952-9686-8abf4413eec0.png)
